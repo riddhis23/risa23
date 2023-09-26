@@ -81,9 +81,9 @@ border-radius.px: 10
 -- profile.wrapper: Riddhi Sawarkar
 avatar: $assets.files.images.image-victor.jpg
 city: nagpur
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+github-url: https://www.github.com/riddhis23/websiterutu.git
+linkedin-url: https://www.linkedin.com/riddhi-sawarkar-14b704234
+instagram-url: https://www.instagram.com/riddhisawarkar_
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
