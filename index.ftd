@@ -30,7 +30,7 @@ margin-top.rem: -72
 border-radius.px: 10
 
 -- profile.wrapper: Riddhi Sawarkar
-avatar: $assets.files.images.shiva3.jpg
+avatar: $assets.files.images.riddhi.jpg
 city: Nagpur
 github-url: https://github.com/riddhis23/websiterutu.git
 linkedin-url: https://www.linkedin.com/in/riddhi-sawarkar-14b704234
@@ -79,7 +79,7 @@ margin-top.rem: -70
 border-radius.px: 10
 
 -- profile.wrapper: Riddhi Sawarkar
-avatar: $assets.files.images.image-victor.jpg
+avatar: $assets.files.images.riddhi.jpg
 city: nagpur
 github-url: https://www.github.com/riddhis23/websiterutu.git
 linkedin-url: https://www.linkedin.com/riddhi-sawarkar-14b704234
