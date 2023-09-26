@@ -1,16 +1,16 @@
 -- import: fastn
 
--- fastn.package: riddhis23.github.io/websiterutu
-favicon: /-/riddhis23.github.io/websiterutu/favicon.ico
+-- fastn.package: riddhis23.github.io/risa23
+favicon: /-/riddhis23.github.io/risa23/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 
--- fastn.auto-import: riddhis23.github.io/websiterutu/FASTN/ds
--- fastn.auto-import: riddhis23.github.io/websiterutu/assets
--- fastn.auto-import: riddhis23.github.io/websiterutu/components/profile
--- fastn.auto-import: riddhis23.github.io/websiterutu/components/social
+-- fastn.auto-import: riddhis23.github.io/risa23/FASTN/ds
+-- fastn.auto-import: riddhis23.github.io/risa23/assets
+-- fastn.auto-import: riddhis23.github.io/risa23/components/profile
+-- fastn.auto-import: riddhis23.github.io/risa23/components/social
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:
